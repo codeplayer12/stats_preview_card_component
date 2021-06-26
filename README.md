@@ -29,7 +29,7 @@ Users should be able to:
 ![](./screenshot.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://codeplayer12.github.io/stats_preview_card_component/
 
 ## My process
 
