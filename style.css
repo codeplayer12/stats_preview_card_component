@@ -105,16 +105,30 @@ h1{
     background-color: var(--primary-soft-violet);
 }
 .attribution{
-    position:absolute;
-    bottom:3%;
-    left:0;
-    right:0;
     text-align: center;
     font-size: 11px; 
 }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-
+@media screen and (max-width: 1046px) {
+    .card{
+        flex-direction: column-reverse;
+    }
+    .side-image{
+        height: 300px;
+        border-bottom-right-radius: 0;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+    .overlay{
+        border-top-left-radius: 10px;
+    }
+}
 @media (min-width:375px){
-
+    .attribution{
+        margin: 20px 0;
+    }
+    .card{
+        min-width: 375px;
+    }
 }
