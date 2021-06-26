@@ -78,7 +78,10 @@ h1{
 .side-image{
     position: relative;
     background-image: url('./images/image-header-desktop.jpg');
-    box-sizing:border-box;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    /* box-sizing:border-box; */
     width: 100%;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
