@@ -112,6 +112,7 @@ h1{
 
 @media screen and (max-width: 1046px) {
     .card{
+        margin-top: 24%;
         flex-direction: column-reverse;
     }
     .side-image{
@@ -129,6 +130,10 @@ h1{
         margin: 20px 0;
     }
     .card{
+        margin-top: 10%;
         min-width: 375px;
+    }
+    .side-image{
+        background-image: url('./images/image-header-mobile.jpg');
     }
 }
