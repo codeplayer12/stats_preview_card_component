@@ -70,7 +70,7 @@ Further development of the project, I would like to use sass for css studying.
 
 ## Author
 
-- Website - [Noble Mutoko](https://www.your-site.com)
+- Website - [Noble Mutoko]
 - Frontend Mentor - [@codeplayer12](https://www.frontendmentor.io/profile/codeplayer12)
 - Twitter - [@noblethunder](https://www.twitter.com/noblethunder)
 
